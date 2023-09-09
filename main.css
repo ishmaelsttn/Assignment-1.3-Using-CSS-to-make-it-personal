@@ -1,0 +1,35 @@
+
+body
+{background-color:black;}
+h2 {
+    color:green; font-size 300px;
+}
+h1 {
+    color:yellowgreen; font-size 300px;
+} 
+P {
+    color:hotpink; font-size 300px;
+}
+h4 {
+    color:purple; font-size 300px;
+}
+nav
+{
+    background-color: aqua;
+    display:block;
+    height: 6000px;
+    width: 200px;
+    padding: 5px;
+    line-height: 30px;
+}
+.buttons
+{background-color: purple;
+border-color: green;
+width: 95px;
+height: 40px;
+border-radius: 60px;
+border-style:dotted;}
+footer
+{
+    background-color: chartreuse;
+}
